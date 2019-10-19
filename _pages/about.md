@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
+title: About Emessell
 image: '/images/pages/about.jpeg'
 ---
 
-현재 [캔슬마켓](https://www.cancelmarket.com/)이란 회사에서 웹 프론트 개발자로 일하고있습니다.
+현재 [캔슬마켓](https://www.cancelmarket.com/)이란 회사에서 웹 프론트엔드 개발자로 일하고있습니다.
 
 2018년 2월 계명대 전기에너지공학과를 졸업을 앞두고, 개발을 하고 싶단 생각으로 무작정 제일 가깝고 좋아보이는 국비지원 학원에 등록하여 자바 개발을 배우며 개발인생을 시작했습니다.
 
 2018년 11월부터 캔슬마켓에 입사하여 웹 프론트엔드로 일을 시작하며 현재까지 계속 일을 하고있습니다.
+
