@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Emessell
+title: About Writer
 image: '/images/pages/about.jpeg'
 ---
 
