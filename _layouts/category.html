@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class='o-wrapper'>
+
+{% assign category = page.category | default: page.title %}
+{% for post in site.categories[category] %}
+  <div class='o-grid'>
+    <div class='o-grid__col'>
+      <article class='c-post'>
+          <a href='{{ post.url | prepend: site.baseurl }}'>
+              <h1 class='c-post__title u-text-center'>{{ post.title }}</h1>
+          </a>
+      </article>
+      <hr>
+    </div>
+  </div>
+
+{% endfor %}
+
+</div>

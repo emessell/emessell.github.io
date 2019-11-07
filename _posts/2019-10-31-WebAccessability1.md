@@ -4,6 +4,7 @@ title: 웹 접근성 교육
 featured: true
 image: 'images\posts\mark_wa.gif'
 tags: [웹, 접근성, 교육, 부산]
+categories: [WCAG]
 ---
 
 ## 도구 설치
